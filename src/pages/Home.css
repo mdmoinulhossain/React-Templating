@@ -1,0 +1,23 @@
+.home_main {
+  background: #7fffd4;
+  display: flex;
+  padding: 10px;
+}
+.card_body {
+  background: #ff7f50;
+  width: 25%;
+  margin-right: 10px;
+  padding: 10px;
+}
+.product_footer {
+}
+.wishlist {
+  text-decoration: none;
+}
+.card_body:last-child {
+  margin-right: 0;
+}
+.product_img {
+  width: 100%;
+  height: auto;
+}
